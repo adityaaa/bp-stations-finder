@@ -1,0 +1,17 @@
+.app-container {
+  padding: 20px;
+}
+
+.filters {
+  margin-bottom: 20px;
+}
+
+.map {
+  height: 400px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.station-list {
+  margin-top: 20px;
+}
